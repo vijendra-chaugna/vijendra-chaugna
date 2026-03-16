@@ -1,7 +1,7 @@
 # About Me:
 Computer Science student with strong full-stack development skills using React.js, Node.js, Express and modern JavaScript.<br>Experienced in API development, database design and UI optimization. Solved 1000+ DSA problems across LeetCode,<br>Codeforces and GeeksforGeeks. Seeking software developer role
 
-<img width="1462" height="526" alt="image" src="https://github.com/user-attachments/assets/e64af385-bd65-43e5-b8ba-0fe9b65a049b" />
+<!-- <img width="1462" height="526" alt="image" src="https://github.com/user-attachments/assets/e64af385-bd65-43e5-b8ba-0fe9b65a049b" /> -->
 
 
 ## Socials:
